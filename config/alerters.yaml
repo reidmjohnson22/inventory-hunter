@@ -1,0 +1,14 @@
+--- 
+alerters:
+  discord:
+    webhook_url: https://discord.com/api/webhooks/805871195441332234/BC5AEOpFbtocvbctScyr3T4Fa2Wjjx53pUiBljKcJ-WazlYEjmxb6vOZ-AFhOSPR8ejn
+    mentions:
+      - @rSpectrum#4869
+  email:
+    sender: orionrmj@gmail.com
+    recipients:
+      - orionrmj@gmail.com
+    relay: 127.0.0.1
+    password: rocket
+...
+  
